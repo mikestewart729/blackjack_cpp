@@ -1,4 +1,3 @@
-// TODO: Update the game logic to allow for more than one round to be played
 // TODO: Update the game logic to allow the player to bet on a round
 // TODO: Update the game logic to run until the player goes broke or quits
 
